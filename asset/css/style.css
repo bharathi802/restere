@@ -1074,6 +1074,11 @@
     .header-section p {
         font-size: 1rem;
     }
+
+    .navbar img{
+        width:60%;
+    }
+    
     .title-contect{
         display: none;
     }
