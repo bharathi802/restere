@@ -1191,6 +1191,13 @@
     .awd-img img{
         width:100%;
     }
+    .br-title{
+        padding:0;
+    }
+    .br-title h1 {
+    font-size: 1.8rem;
+    padding: 2rem 0;
+    }
     .serp {
         border-bottom: 1.6vw solid transparent;
     border-right: 1.6vw solid transparent;
