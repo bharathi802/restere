@@ -845,15 +845,15 @@
 .car-box p {
     font-family: "Poppins";
     color: gray;
-    padding: 5rem 3.5rem 6rem;
+    padding: 3rem 0.5rem 3rem;
+    font-size:0.9rem
 }
 
 .car-img {
     position: absolute;
-    left: 3.5rem;
-    top: -2.6rem;
-    width: 5.4rem;
-    height: 5.4rem;
+    left: 1rem;
+    top: -1.5rem;
+    width: 3rem;
     border-radius: 50%;
 }
 
