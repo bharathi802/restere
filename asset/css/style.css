@@ -1291,9 +1291,17 @@
         margin-bottom: 1rem;
     }
 
+    
     .triangle {
-        border-right: 11.5rem solid transparent;
-        border-left: 11.5rem solid transparent;
+        border-right: 47vw solid transparent;
+        border-left: 47vw solid transparent;
+        border-bottom: 18vw solid red;
+        border-top: 18vw solid transparent;
+    }
+    .detail-box{
+            display: flex;
+            justify-content: center;
+            align-items: center;
     }
 
     .input-detail {
