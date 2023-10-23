@@ -1185,6 +1185,12 @@
     .type-serv .active .serp {
         border-left: 1.6vw solid rgb(198, 90, 90);
     }
+    .awd-img{
+        width:33.33%;
+    }
+    .awd-img img{
+        width:100%;
+    }
     .serp {
         border-bottom: 1.6vw solid transparent;
     border-right: 1.6vw solid transparent;
