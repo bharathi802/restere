@@ -1310,8 +1310,8 @@
             align-items: center;
     }
 
-    .input-detail {
-        margin: 2rem;
+    .br .container{
+        box-shadow: inset 1px 1px 20px #eee, inset -1px -1px 20px #eee;
     }
 
     .detail-box {
