@@ -845,15 +845,14 @@
 .car-box p {
     font-family: "Poppins";
     color: gray;
-    padding: 3rem 0.5rem 3rem;
-    font-size:0.9rem
-}
+    padding: 4rem 1.5rem 5rem;
+    font-size: 1rem;
 
 .car-img {
     position: absolute;
     left: 1rem;
-    top: -1.5rem;
-    width: 3rem;
+    top: -2.5rem;
+    width: 5rem;
     border-radius: 50%;
 }
 
@@ -1365,8 +1364,13 @@
     .top-sprt {
         padding-top: 1rem;
     }
-    .car-card{
-        gap: 2rem;
+    .car-img{
+        width:3rem;
+        top: -1.5rem;
+    }
+    .car-box p{
+        padding: 3rem 0.5rem 3rem;
+        font-size: 0.9rem;
     }
     .login span{
         padding-right: 4rem;
