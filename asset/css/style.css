@@ -1290,7 +1290,12 @@
         font-weight: 600;
         margin-bottom: 1rem;
     }
-
+    .detail-box input{
+        width: 90%;
+    }
+    .detail-box textarea {
+        width: 100%;
+    }
     
     .triangle {
         border-right: 47vw solid transparent;
