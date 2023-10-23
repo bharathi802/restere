@@ -612,6 +612,7 @@
 .input-detail {
     font-size: 1rem;
     padding-top: 2rem;
+    box-shadow: inset 1px 1px 20px #eee, inset -1px -1px 20px #eee;
 
 }
 
