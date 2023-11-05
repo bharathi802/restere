@@ -839,7 +839,7 @@
     box-shadow: inset 1px 1px 20px #eee, inset -1px -1px 20px #eee;
 }
 
-.car-box p {
+.car-box > p {
     font-family: "Poppins";
     color: gray;
     padding: 4rem 1.5rem 5rem;
